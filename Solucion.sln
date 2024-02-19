@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoWebProject", "DjangoWebProject\DjangoWebProject.pyproj", "{C626DF77-1587-4C30-BFB9-CA00CAC8637D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskWebProject", "FlaskWebProject\FlaskWebProject.pyproj", "{F1BB7D47-60D7-4FE2-983B-A6B6811742CC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BottleWebProject", "BottleWebProject\BottleWebProject.pyproj", "{CA19485A-6D4C-4C3E-87B1-5BBC90CDA71E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WebProject", "WebProject\WebProject.pyproj", "{5323810D-ED48-465C-B471-943DEAC15883}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskJadeWebProject", "FlaskJadeWebProject\FlaskJadeWebProject.pyproj", "{A24E2C70-17B6-4BC6-988D-01A6FEE94323}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BlankDjangoWebProject", "BlankDjangoWebProject\BlankDjangoWebProject.pyproj", "{3FCED2B5-5A51-47EF-984C-8492DFB32E02}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BlankFlaskWebProject", "BlankFlaskWebProject\BlankFlaskWebProject.pyproj", "{DC7C696B-1337-48A9-866A-66E189D120A6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BlankBottleWebProject", "BlankBottleWebProject\BlankBottleWebProject.pyproj", "{92744D94-21AA-4FF8-8F22-567EA76BA641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C626DF77-1587-4C30-BFB9-CA00CAC8637D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C626DF77-1587-4C30-BFB9-CA00CAC8637D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C626DF77-1587-4C30-BFB9-CA00CAC8637D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C626DF77-1587-4C30-BFB9-CA00CAC8637D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BB7D47-60D7-4FE2-983B-A6B6811742CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BB7D47-60D7-4FE2-983B-A6B6811742CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BB7D47-60D7-4FE2-983B-A6B6811742CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BB7D47-60D7-4FE2-983B-A6B6811742CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA19485A-6D4C-4C3E-87B1-5BBC90CDA71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA19485A-6D4C-4C3E-87B1-5BBC90CDA71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA19485A-6D4C-4C3E-87B1-5BBC90CDA71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA19485A-6D4C-4C3E-87B1-5BBC90CDA71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5323810D-ED48-465C-B471-943DEAC15883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5323810D-ED48-465C-B471-943DEAC15883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5323810D-ED48-465C-B471-943DEAC15883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5323810D-ED48-465C-B471-943DEAC15883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24E2C70-17B6-4BC6-988D-01A6FEE94323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24E2C70-17B6-4BC6-988D-01A6FEE94323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24E2C70-17B6-4BC6-988D-01A6FEE94323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24E2C70-17B6-4BC6-988D-01A6FEE94323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCED2B5-5A51-47EF-984C-8492DFB32E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCED2B5-5A51-47EF-984C-8492DFB32E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCED2B5-5A51-47EF-984C-8492DFB32E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCED2B5-5A51-47EF-984C-8492DFB32E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7C696B-1337-48A9-866A-66E189D120A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7C696B-1337-48A9-866A-66E189D120A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7C696B-1337-48A9-866A-66E189D120A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7C696B-1337-48A9-866A-66E189D120A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92744D94-21AA-4FF8-8F22-567EA76BA641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92744D94-21AA-4FF8-8F22-567EA76BA641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92744D94-21AA-4FF8-8F22-567EA76BA641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92744D94-21AA-4FF8-8F22-567EA76BA641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE7D985-4AC3-4960-B3CD-85B8FA957713}
+	EndGlobalSection
+EndGlobal
